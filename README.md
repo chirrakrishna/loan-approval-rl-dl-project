@@ -12,7 +12,7 @@ Role: ML Engineer Assessment Project
 
 
 
-Project Overview
+## Project Overview
 
 This project builds an intelligent loan approval system using two approaches:
 
