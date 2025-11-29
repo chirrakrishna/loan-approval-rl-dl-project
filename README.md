@@ -1,7 +1,13 @@
 ## Loan Decision Optimization using Deep Learning and Offline Reinforcement Learning
 
 Author: Krishna Chirra
+
+
+
 Submitted to: Shodh AI
+
+
+
 Role: ML Engineer Assessment Project
 
 
