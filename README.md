@@ -23,7 +23,7 @@ Offline Reinforcement Learning (Decision Optimization)
 Dataset: LendingClub Accepted Loans (2007–2018)
 Objective: Improve loan approval decisions to maximize profitability and reduce default risk.
 
-Task 1 — Exploratory Data Analysis (EDA) & Preprocessing
+## Task 1 — Exploratory Data Analysis (EDA) & Preprocessing
 
 Notebook: 1_Preprocessing.ipynb
 
@@ -62,7 +62,7 @@ final_preprocessor.pkl
 
 Clean processed dataset for modeling
 
-Task 2 — Deep Learning Model (Supervised Learning)
+## Task 2 — Deep Learning Model (Supervised Learning)
 
 Notebook: 2_Deep_Learning_Model.ipynb
 
@@ -96,7 +96,7 @@ If predicted_default_probability < threshold:
 Else:
     Deny loan
 
-Task 3 — Offline Reinforcement Learning Agent
+## Task 3 — Offline Reinforcement Learning Agent
 
 Notebooks:
 
@@ -161,7 +161,7 @@ Learned approval policy
 
 Estimated policy value (expected return of RL decisions)
 
-Task 4 — Final Analysis & Findings
+## Task 4 — Final Analysis & Findings
 1. Why AUC and F1 for Deep Learning
 
 AUC measures how well the model separates risky vs safe borrowers
